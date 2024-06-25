@@ -1,5 +1,6 @@
 # > Custom
+host, stat.10jqka.com.cn, direct
+host, adm.10jqka.com.cn, direct
 host-suffix, hexin.cn
-host-suffix, 10jqka.com.cn
 host-keyword, bochk
 host-keyword, hsbc
